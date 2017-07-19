@@ -1,0 +1,13 @@
+vst, 100 30;
+input, 100 45;
+output, 100 45;
+sample, 200 30;
+sequencer, 200 30;
+repeater, 100 15;
+pattern, 100 15;
+channel, 100 20;
+monome, 100 15;
+oscillator, 100 120;
+choices, 100 15;
+velocity, 100 15;
+output_recorder, 100 45;

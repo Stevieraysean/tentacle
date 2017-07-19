@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tentacle",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tempo" : [ 111.590248 ],
+					"setpatch" : [ 0 ],
+					"print[1]" : [ 0 ],
+					"shades::audio" : [ 250, 238, 97 ],
+					"shades::midi" : [ 64, 143, 249 ],
+					"shades::parameter" : [ 182, 182, 182 ],
+					"sequencer_21::node[1]::u929007854" : [ 64, 143, 249 ],
+					"sequencer_21::node::u033007861" : [ 64, 143, 249 ],
+					"sequencer_21::chan" : [ 0 ],
+					"sequencer_21::sequence" : [ 0 ],
+					"sequencer_21::velocity" : [ 127 ],
+					"sequencer_21::length" : [ 50 ],
+					"sequencer_21::note" : [ 79 ],
+					"sequencer_21::offset" : [ 0 ],
+					"sequencer_21::frequency" : [ "16n" ],
+					"vst1::node[4]::u763006633" : [ 250, 238, 97 ],
+					"vst1::node[3]::u580006640" : [ 250, 238, 97 ],
+					"vst1::node[2]::u548006652" : [ 64, 143, 249 ],
+					"vst1::node[1]::u147006659" : [ 250, 238, 97 ],
+					"vst1::node::u124006668" : [ 250, 238, 97 ],
+					"vst1::option" : [ "808kit" ],
+					"output1::node[2]::u439006774" : [ 64, 143, 249 ],
+					"output1::node[1]::u740006781" : [ 250, 238, 97 ],
+					"output1::node::u814006788" : [ 250, 238, 97 ],
+					"output1::outputs" : [ "1 + 2" ],
+					"output1::level" : [ 90 ],
+					"output1::id" : [ "output1" ],
+					"monome1::patcher::preset" : [ "preset" ],
+					"monome1::node::u645008174" : [ 64, 143, 249 ],
+					"channel1::node[1]::u981008238" : [ 64, 143, 249 ],
+					"channel1::node::u878008245" : [ 64, 143, 249 ],
+					"channel1::channel" : [ 1 ],
+					"vst2::node[4]::u798009710" : [ 250, 238, 97 ],
+					"vst2::node[3]::u621009717" : [ 250, 238, 97 ],
+					"vst2::node[2]::u786009729" : [ 64, 143, 249 ],
+					"vst2::node[1]::u025009736" : [ 250, 238, 97 ],
+					"vst2::node::u713009745" : [ 250, 238, 97 ],
+					"vst2::option" : [ "alto1" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

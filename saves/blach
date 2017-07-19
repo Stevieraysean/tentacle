@@ -1,0 +1,3 @@
+output output1 0 0 145 381 []
+vst vst1 0 0 149 291 [audio vst1 1 166 328 output1 1 162 387, audio vst1 0 155 328 output1 0 151 387]
+sample2 sample21 0 0 153 214 [audio sample21 0 160 251 vst1 1 155 297, audio sample21 1 171 251 vst1 2 166 297]

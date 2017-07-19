@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tentacle",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tempo" : [ 114.176971 ],
+					"setpatch" : [ 0 ],
+					"print[1]" : [ 0 ],
+					"monome1::preset" : [ "preset" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

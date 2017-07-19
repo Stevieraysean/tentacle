@@ -1,0 +1,6 @@
+channel channel1 0 0 497 225 [midi channel1 0 554 231 vst2 0 373 295]
+output output1 0 0 262 443 []
+vst vst1 0 0 157 168 [audio vst1 1 174 205 output1 1 279 449, audio vst1 0 163 205 output1 0 268 449]
+vst vst2 0 0 325 289 [audio vst2 1 342 326 output1 1 279 449, audio vst2 0 331 326 output1 0 268 449]
+monome monome1 0 0 493 200 [midi monome1 0 543 207 channel1 0 542 231]
+sequencer_2 sequencer_21 0 0 187 78 [midi sequencer_21 0 266 85 vst1 0 205 174]

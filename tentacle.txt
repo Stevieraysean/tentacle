@@ -1,0 +1,22 @@
+tentacle
+
+problem:
+I have created many applications over the last few years. mash and insanity being two notable ones that have had a few iterations. I wanted a flexible routing scheme for the audio/midi input and output sections of mash that could be reconfiured for different sets/setups to inprovise with. 
+
+in short I always eventually want to add something to either of these apps to make them more flexible..
+
+solution:
+abstraction - every part of these apps has been rewritten as an abstract module as part of an environment.
+
+insanity has become the monome module.
+buttons can be configured to send:
+
+a form of midi specific to this environment. message: [1 note 60 100] corresponds to: [channel type value current] this allows for easier channel routing over more channels that are in the midi spec. 
+
+this protocol incoverted to standard midi on channels 1 - 16 for midi_in midi_out modules
+
+parameters: [1 parameter 12 0.59] corresponds to: [channel type value current(float)] this makes controlling parameters in VSTs or max much more flexible.
+
+mash, my mlr variant has become the sample module.
+the playback postion is controlled by note in messages, any number of slices can be used and mapped to any number of buttons in the monome module. or a midi controller can be used with setting an offset for slice 0 etc.
+other controls are mapped to cc messages. pitch, speed, 

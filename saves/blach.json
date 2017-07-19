@@ -1,0 +1,46 @@
+{
+	"pattrstorage" : 	{
+		"name" : "tentacle",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"tempo" : [ 20.0 ],
+					"setpatch" : [ 0 ],
+					"print[1]" : [ 0 ],
+					"shades::audio" : [ 250, 238, 97 ],
+					"shades::midi" : [ 64, 143, 249 ],
+					"shades::parameter" : [ 182, 182, 182 ],
+					"sample21::node[4]::u468007409" : [ 64, 143, 249 ],
+					"sample21::node[3]::u379007400" : [ 250, 238, 97 ],
+					"sample21::node[2]::u363007393" : [ 250, 238, 97 ],
+					"sample21::node[1]::u124007528" : [ 250, 238, 97 ],
+					"sample21::node::u312007521" : [ 250, 238, 97 ],
+					"sample21::style" : [ 0 ],
+					"sample21::channel" : [ 0 ],
+					"sample21::pressQ" : [ "16n" ],
+					"sample21::recordQ" : [ "4n" ],
+					"sample21::offset" : [ 0 ],
+					"sample21::slices" : [ 1 ],
+					"sample21::id" : [ "sample21" ],
+					"output1::node[2]::u805007653" : [ 64, 143, 249 ],
+					"output1::node[1]::u022007646" : [ 250, 238, 97 ],
+					"output1::node::u661007639" : [ 250, 238, 97 ],
+					"output1::outputs" : [ "1 + 2" ],
+					"output1::level" : [ 100 ],
+					"output1::id" : [ "output1" ],
+					"vst1::node[4]::u187007681" : [ 250, 238, 97 ],
+					"vst1::node[3]::u485007822" : [ 250, 238, 97 ],
+					"vst1::node[2]::u974007811" : [ 64, 143, 249 ],
+					"vst1::node[1]::u638007800" : [ 250, 238, 97 ],
+					"vst1::node::u657007795" : [ 250, 238, 97 ],
+					"vst1::option" : [ "menu" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
