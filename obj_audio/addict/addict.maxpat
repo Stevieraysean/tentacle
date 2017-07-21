@@ -717,7 +717,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 1152.0, 369.5, 44.0, 37.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 54.646545, 9.5, 14.0, 11.0 ],
+					"presentation_rect" : [ 54.646545, 2.0, 14.0, 26.0 ],
 					"style" : "",
 					"text" : "+",
 					"usebgoncolor" : 1,
